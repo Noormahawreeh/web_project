@@ -1,0 +1,48 @@
+.ajluon{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center;border-bottom: 7px solid rgb(40, 143, 40); font-weight:bold; font-size: larger;}
+.text{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;text-align: right; background-color: rgb(109, 137, 109)/50%; font-size: larger;}
+.pppp{ padding: 0% 10%; }
+.list{ font-size: larger; padding: 0% 10%; text-align: right;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif }
+.res{ font-weight:bold; text-align: right;padding: 0% 10%; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: larger; }  
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center;font-weight:bold;}
+.myycity{color: rgb(40, 143, 40);}
+
+
+
+  #myname{ 
+   /* text-decoration: underline;
+   text-decoration-color: rgb(245, 241, 17);*/
+   color: palevioletred; 
+padding-right:1%;border-bottom: 10px solid rgb(228, 211, 27);
+}
+
+#information{ text-align:right;
+   color:rgb(199, 97, 97);
+   font-size:20px;
+   padding-right: 27%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.links{
+      text-align: center;
+   font-weight:bold; font-size:30px; color: rgb(127, 96, 155);
+}
+
+   .img{ 
+   
+    float:left;
+    width: 150px;
+    padding:0% 5% 0% 5%;
+ }
+  .paje{ margin-right:300px;margin-left: 250px;margin-top: 100px;margin-bottom: 100px; border-style:groove; background-color:rgb(243, 243, 243);border-color:rgb(241, 215, 18);padding: 2% 2%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;border-radius: 10px;}
+
+
+
+  .p, .reson,.star{ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-align: center ; 
+    margin: 0px 30px;
+  font-size: 25px;}
+  .star{font-size: 30px; border-bottom: 3px solid rgb(184, 148, 105) ; color: rgb(87, 60, 26);}
+  .reson{text-align: center ; margin: 0px 90px; font-size: 30px;}
+  .p{color: rgb(87, 60, 26);}
+  .reson{color: rgb(70, 135, 26);}
+  span{color: rgb(202, 129, 20); font-size: 27px;}
+  .video{margin: 0px 350px;}
